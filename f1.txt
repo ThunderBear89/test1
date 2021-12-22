@@ -1,12 +1,1 @@
 a
-
-:we
-:wq
-
-~wq
-wq
-:wq
-;wq
-+:wq
-+;wq
-git --help
